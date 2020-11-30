@@ -6,6 +6,9 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    int h = 0;
+    h = 10;
+    std::cout << h;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
